@@ -5,15 +5,12 @@
     box-sizing: border-box;
 }
 .profile-pic {
-    width: 140px;
-    height: 140px;
+    width: 300px;
+    height: 300px;
     object-fit: cover;
     border-radius: 50%;
     margin-bottom: 20px;
     border: 2px solid #ddd;
-}
-
-.profile-pic {
     transition: transform 0.2s ease;
 }
 
