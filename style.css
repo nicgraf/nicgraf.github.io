@@ -13,6 +13,14 @@
     border: 2px solid #ddd;
 }
 
+.profile-pic {
+    transition: transform 0.2s ease;
+}
+
+.profile-pic:hover {
+    transform: scale(1.03);
+}
+
 /* Typography and layout */
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
